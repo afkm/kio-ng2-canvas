@@ -1,8 +1,8 @@
 import { Observable } from 'rxjs/Observable'
 import 'rxjs/add/observable/of'
 import { Component } from '@angular/core';
-import { CanvasRenderer, Size } from '../../src/canvas.module'
-import { canvasRendererFactory } from '../../src/renderer/image.renderer'
+import { CanvasRenderer, Size } from '../../canvas.module'
+import { canvasRendererFactory } from '../../renderer/image.renderer'
 
 
 @Component({

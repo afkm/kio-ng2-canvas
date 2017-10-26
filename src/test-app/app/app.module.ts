@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { KioNg2CanvasModule } from '../../src/canvas.module'
+import { KioNg2CanvasModule } from '../../canvas.module'
 
 
 import { AppComponent } from './app.component';
